@@ -1,6 +1,6 @@
 {
   "name": "rtorrent-session-rectify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "cli utility to update .rtorrent.session files",
   "main": "index.js",
   "bin": "index.js",
