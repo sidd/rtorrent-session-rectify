@@ -10,6 +10,10 @@
   "keywords": [],
   "author": "Sidd Sridharan <sidd@sidd.com> (http://sidd.com)",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sidd/rtorrent-session-rectify.git"
+  },
   "dependencies": {
     "bencode": "^0.7.0",
     "minimist": "^1.2.0"

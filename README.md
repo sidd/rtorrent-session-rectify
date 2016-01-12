@@ -4,6 +4,12 @@ A basic utility for updating `~/.rtorrent.session` files. This utility finds all
 
 The `directory`, `loaded_file`, and `tied_to_directory` fields are updated.
 
+# installation
+
+```
+$ npm install rtorrent-session-rectify
+```
+
 # usage
 
 This command would update fields starting with `/home/user/downloads` to start with `/var/downloads` instead. It looks in the `files` directory, and outputs changes to the `output` directory. Relative paths are accepted for `from` and `to`:
