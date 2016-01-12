@@ -1,0 +1,17 @@
+{
+  "name": "rtorrent-session-rectify",
+  "version": "1.0.0",
+  "description": "cli utility to update .rtorrent.session files",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sidd Sridharan <sidd@sidd.com> (http://sidd.com)",
+  "license": "MIT",
+  "dependencies": {
+    "bencode": "^0.7.0",
+    "minimist": "^1.2.0"
+  }
+}
